@@ -2,7 +2,8 @@
 
   OBJECTIVE
   
-  The analysis seems to focus on sales performance, product revenue, and growth trends.
+   
+  The objective of the Revenue Growth and Sales Performance Analysis project is to identify trends and insights in sales data to optimize product performance and drive revenue growth across different regions and categories.
 
   Tools Used - 
 
